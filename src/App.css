@@ -1,38 +1,142 @@
-.App {
-  text-align: center;
+.MainBox {
+  position: flex;
+  width: 100%;
+  height: 100%;
+  min-width: 500px;
+  min-height: 500px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.MainPage {
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100%;
+  min-width: 30%;
+  min-height: 30%;
+  z-index: 0;
+  max-width: 100%;
+  max-height: 100%;
+  background-repeat: no-repeat;
+  resize: both;
+  scroll-behavior: auto;
+  background-image: url(/src/components/Pictures/Bild6.png);
+  background-position: sticky;
+  background-size: cover;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.headline {
+  display: flex;
+  position: relative;
+  font-weight: 1000;
+  font-size: 100px;
+  font-style: italic;
+  resize: both;
+  margin: 5px 5px 5px 5px;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: #1f1e1c;
 }
 
-.App-link {
-  color: #61dafb;
+.Dropdownmenü {
+  @apply transition hover:bg-blue-300 duration-500;
+  
+  justify-content: center;
+  position: relative;
+  height: 120px;
+  width: 500px;
+  border: 5px solid #1f1e1c;
+  border-radius: 5px;
+  transform: skew(-36deg);
+  text-align: center;
+  font-size: x-large;
+  font-weight: bolder;
+  color: #1f1e1c;
+  pointer-events: default;
 }
 
-@keyframes App-logo-spin {
+.Dropdownmenü-Element {
+  position: relative;
+  width: 500px;
+  border: 3px solid #1f1e1c;
+  text-align: left;
+  border-radius: 5px;
+  color: #1f1e1c;
+  font-weight: bolder;
+  height: 0px;
+  font-size: 0px;
+  pointer-events: default;
+  
+}
+
+.Dropdown-Menü-btn {
+  @apply transition hover:bg-blue-300 duration-500 transform hover:-translate-y-1 hover:scale-100 hover:-translate-x-1;
+  position: absolute;
+  bottom: 1px;
+  right: 1px;
+  padding: 2px;
+  border-radius: 5px 5px;
+  margin: 3px;
+  font-weight: bolder;
+  pointer-events: default;
+}
+
+/*.Dropdown-Menü-btn:hover
+{
+  background-color: white;
+}
+
+.Dropdownmenü:hover
+{
+  background-color: white;
+}*/
+
+@keyframes fade-in {
   from {
-    transform: rotate(0deg);
+    height: 0px;
+    font-size: 0px;
   }
   to {
-    transform: rotate(360deg);
+    height: 150px;
+    font-size: 15px;
+  }
+}
+
+@keyframes fade-out {
+  from {
+    height: 150px;
+  }
+  to {
+    height: 0px;
+  }
+}
+
+@keyframes fade-in-btn {
+  from {
+    height: 0px;
+    font-size: 0px;
+    border: 0px;
+  }
+  to {
+    height: 30px;
+    font-size: 15px;
+    border: 2px solid #1f1e1c;
+  }
+}
+
+@keyframes fade-out-btn {
+  from {
+    height: 30px;
+    font-size: 15px;
+    border: 2px solid #1f1e1c;
+  }
+  to {
+    height: 0px;
+    font-size: 0px;
+    border: 0px;
   }
 }

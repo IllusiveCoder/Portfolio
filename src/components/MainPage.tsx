@@ -60,6 +60,11 @@ export function MainPage() {
           desciptive_text={"Dieses Projekt ist ein Beispielprogramm, welches verdeutlichen soll, wie Elemente in Arrays, mit den Dimensionen 1 bis 3, eingelesen, gelöscht und allgemein verändert werden."}
           link={"https://github.com/IllusiveCoder/Arrays"}
         ></ProjectHeader>
+        <ProjectHeader
+          title={"Prüfung"}
+          desciptive_text={"Hilfestellung für Prüfung 5CS21-1"}
+          link={"https://github.com/IllusiveCoder/Pruefung"}
+        ></ProjectHeader>
       </main>
     </div>
   );

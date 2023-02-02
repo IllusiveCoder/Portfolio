@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/illusivecoder.github.io/Portfolio/static/css/main.1badfdc9.css",
-    "main.js": "/illusivecoder.github.io/Portfolio/static/js/main.9a00b1a6.js",
-    "static/js/496.eca39582.chunk.js": "/illusivecoder.github.io/Portfolio/static/js/496.eca39582.chunk.js",
-    "static/media/Bild6.png": "/illusivecoder.github.io/Portfolio/static/media/Bild6.ddb7c6f34c1fcc86ca52.png",
-    "index.html": "/illusivecoder.github.io/Portfolio/index.html",
-    "main.1badfdc9.css.map": "/illusivecoder.github.io/Portfolio/static/css/main.1badfdc9.css.map",
-    "main.9a00b1a6.js.map": "/illusivecoder.github.io/Portfolio/static/js/main.9a00b1a6.js.map",
-    "496.eca39582.chunk.js.map": "/illusivecoder.github.io/Portfolio/static/js/496.eca39582.chunk.js.map"
+    "main.css": "/illusivecoder.com/static/css/main.362761b1.css",
+    "main.js": "/illusivecoder.com/static/js/main.21aeeeb3.js",
+    "static/js/496.eca39582.chunk.js": "/illusivecoder.com/static/js/496.eca39582.chunk.js",
+    "static/media/Bild6.png": "/illusivecoder.com/static/media/Bild6.ddb7c6f34c1fcc86ca52.png",
+    "index.html": "/illusivecoder.com/index.html",
+    "main.362761b1.css.map": "/illusivecoder.com/static/css/main.362761b1.css.map",
+    "main.21aeeeb3.js.map": "/illusivecoder.com/static/js/main.21aeeeb3.js.map",
+    "496.eca39582.chunk.js.map": "/illusivecoder.com/static/js/496.eca39582.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1badfdc9.css",
-    "static/js/main.9a00b1a6.js"
+    "static/css/main.362761b1.css",
+    "static/js/main.21aeeeb3.js"
   ]
 }

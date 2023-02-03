@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cc39e9e.chunk.css",
-    "main.js": "/static/js/main.1ea39f9d.chunk.js",
-    "main.js.map": "/static/js/main.1ea39f9d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.37fc7ac8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.37fc7ac8.js.map",
-    "static/js/2.8f698e20.chunk.js": "/static/js/2.8f698e20.chunk.js",
-    "static/js/2.8f698e20.chunk.js.map": "/static/js/2.8f698e20.chunk.js.map",
-    "static/js/3.9ba21cc4.chunk.js": "/static/js/3.9ba21cc4.chunk.js",
-    "static/js/3.9ba21cc4.chunk.js.map": "/static/js/3.9ba21cc4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1cc39e9e.chunk.css.map": "/static/css/main.1cc39e9e.chunk.css.map",
-    "static/js/2.8f698e20.chunk.js.LICENSE.txt": "/static/js/2.8f698e20.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Bild6.ddb7c6f3.png"
+    "main.css": "/illusivecoder.com/static/css/main.4a26e579.chunk.css",
+    "main.js": "/illusivecoder.com/static/js/main.1ea39f9d.chunk.js",
+    "main.js.map": "/illusivecoder.com/static/js/main.1ea39f9d.chunk.js.map",
+    "runtime-main.js": "/illusivecoder.com/static/js/runtime-main.34138825.js",
+    "runtime-main.js.map": "/illusivecoder.com/static/js/runtime-main.34138825.js.map",
+    "static/js/2.8f698e20.chunk.js": "/illusivecoder.com/static/js/2.8f698e20.chunk.js",
+    "static/js/2.8f698e20.chunk.js.map": "/illusivecoder.com/static/js/2.8f698e20.chunk.js.map",
+    "static/js/3.9ba21cc4.chunk.js": "/illusivecoder.com/static/js/3.9ba21cc4.chunk.js",
+    "static/js/3.9ba21cc4.chunk.js.map": "/illusivecoder.com/static/js/3.9ba21cc4.chunk.js.map",
+    "index.html": "/illusivecoder.com/index.html",
+    "static/css/main.4a26e579.chunk.css.map": "/illusivecoder.com/static/css/main.4a26e579.chunk.css.map",
+    "static/js/2.8f698e20.chunk.js.LICENSE.txt": "/illusivecoder.com/static/js/2.8f698e20.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/illusivecoder.com/static/media/Bild6.ddb7c6f3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.37fc7ac8.js",
+    "static/js/runtime-main.34138825.js",
     "static/js/2.8f698e20.chunk.js",
-    "static/css/main.1cc39e9e.chunk.css",
+    "static/css/main.4a26e579.chunk.css",
     "static/js/main.1ea39f9d.chunk.js"
   ]
 }

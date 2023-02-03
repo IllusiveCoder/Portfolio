@@ -85,16 +85,6 @@
   pointer-events: default;
 }
 
-/*.Dropdown-Menü-btn:hover
-{
-  background-color: white;
-}
-
-.Dropdownmenü:hover
-{
-  background-color: white;
-}*/
-
 @keyframes fade-in {
   from {
     height: 0px;

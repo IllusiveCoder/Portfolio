@@ -61,9 +61,19 @@ export function MainPage() {
           link={"https://github.com/IllusiveCoder/Arrays"}
         ></ProjectHeader>
         <ProjectHeader
-          title={"Prüfung"}
-          desciptive_text={"Hilfestellung für Prüfung 5CS21-1"}
-          link={"https://github.com/IllusiveCoder/Pruefung"}
+          title={"IC-Autodocker"}
+          desciptive_text={"Programm zum spielerischen Herantreten an Docker und zum Ausprobieren jeglicher Funktionalität."}
+          link={"https://github.com/IllusiveCoder/IC-Autodocker"}
+        ></ProjectHeader>
+        <ProjectHeader
+          title={"IC-Autodocker Python Package"}
+          desciptive_text={"Python Package mit voller Funktionalität von IC-Autodocker, jedoch ohne GUI."}
+          link={"https://github.com/IllusiveCoder/IC-Autodocker-Python-Package"}
+        ></ProjectHeader>
+        <ProjectHeader
+          title={"AI Art Generator"}
+          desciptive_text={"Generierung von jeglichen künstlerischen Bildern, auf Basis von künstlicher Intelligenz."}
+          link={""}
         ></ProjectHeader>
       </main>
     </div>

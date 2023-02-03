@@ -51,11 +51,6 @@ export function MainPage() {
           link={"https://github.com/IllusiveCoder/Portfolio"}
         ></ProjectHeader>
         <ProjectHeader
-          title={"Slimy Adventures"}
-          desciptive_text={"Wird ein 2D Adventure, in welchem man die Rolle eines schleimartigen Wesens übernimmt und versucht, sein Volk aus der Gefangenschaft einer anderen bösartigen Spezies zu befreien."}
-          link={"https://github.com/IllusiveCoder/Slimy-Adventures"}
-        ></ProjectHeader>
-        <ProjectHeader
           title={"Array Projekt"}
           desciptive_text={"Dieses Projekt ist ein Beispielprogramm, welches verdeutlichen soll, wie Elemente in Arrays, mit den Dimensionen 1 bis 3, eingelesen, gelöscht und allgemein verändert werden."}
           link={"https://github.com/IllusiveCoder/Arrays"}
